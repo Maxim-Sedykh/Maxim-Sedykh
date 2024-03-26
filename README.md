@@ -1,16 +1,28 @@
-### Hi there 👋
+# Привет, я Максим Седых 👋
 
-<!--
-**Maxim-Sedykh/Maxim-Sedykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+Привет! Меня зовут Максим, и я разработчик на языке C#. Я увлечен созданием качественного программного обеспечения, и моя цель - постоянно улучшать свои навыки и участвовать в интересных проектах.
 
-Here are some ideas to get you started:
+## Навыки
+- **Языки программирования:** C#
+- **Технологии:** .NET, ASP.NET MVC Core, ASP.NET Web API, Entity Framework, HTML, CSS, JavaScript, Jquery,
+- **Базы данных:** SQL Server, MySQL, PostgreSQL
+- **Инструменты:** Visual Studio, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+- **OrderPaymentSystem** API для ведения отчётов по заказам и платежам. Технологии - ASP.NET MVC Core, Entity Framework Core, HTML/CSS, JavaScript, JQuery, .NET 8, Quartz, Mapster. ASP.NET Web API, Entity Framework, AutoMapper, JWT Bearer, PostgreSQL, Serilog, FluentValidation, Docker, RabbitMQ. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/OrderPaymentSystem
+- **FootballMatchPredictor** Веб-приложение, которое позволяет пользователям предсказывать результаты футбольных матчей. Технологии - ASP.NET MVC Core, Entity Framework Core, HTML/CSS, JavaScript, JQuery, .NET 8, Quartz, Mapster. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/FootballMatchPredictor
+- **SQLServerCourse** Курс по MS SQL Server и T-SQL, Технологии - ASP.NET MVC Core, Entity Framework Core, HTML5, CSS3, JavaScript, Nlog, Serilog, PostgreSQL, Bootstrap5. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/SQLServerCourse
+- **OnlineBanking** Данный проект посвящён теме "Онлайн-банкинг". Технологии - ASP.NET MVC Core, Entity Framework Core c подходом Code First, .NET 8, Serilog, Mapster, .NET Quartz, HTML5, CSS3, JQuery, Bootstrap. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/OnlineBanking
+
+## Связаться со мной
+- **Номер:** +7 (949) 359-71-26
+- **Email:** m_sedykh02@mail.ru
+- **Tg:** https://t.me/maximka_se
+- **VK:** https://vk.com/maximsedykh2000
+- **ICQ:** https://icq.im/maximsedykh
+
+## Активно ищу работу!
+
+## Благодарность
+Благодарю вас за посещение моего профиля! Не стесняйтесь связаться со мной для обсуждения возможных совместных проектов или просто чтобы поздороваться. Давайте создадим что-то удивительное вместе! 🚀
