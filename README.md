@@ -10,10 +10,10 @@
 - **Инструменты:** Visual Studio, Git
 
 ## Проекты
-- **OrderPaymentSystem** API для ведения отчётов по заказам и платежам. Технологии - ASP.NET MVC Core, Entity Framework Core, HTML/CSS, JavaScript, JQuery, .NET 8, Quartz, Mapster. ASP.NET Web API, Entity Framework, AutoMapper, JWT Bearer, PostgreSQL, Serilog, FluentValidation, Docker, RabbitMQ. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/OrderPaymentSystem
-- **FootballMatchPredictor** Веб-приложение, которое позволяет пользователям предсказывать результаты футбольных матчей. Технологии - ASP.NET MVC Core, Entity Framework Core, HTML/CSS, JavaScript, JQuery, .NET 8, Quartz, Mapster. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/FootballMatchPredictor
-- **SQLServerCourse** Курс по MS SQL Server и T-SQL, Технологии - ASP.NET MVC Core, Entity Framework Core, HTML5, CSS3, JavaScript, Nlog, Serilog, PostgreSQL, Bootstrap5. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/SQLServerCourse
-- **OnlineBanking** Данный проект посвящён теме "Онлайн-банкинг". Технологии - ASP.NET MVC Core, Entity Framework Core c подходом Code First, .NET 8, Serilog, Mapster, .NET Quartz, HTML5, CSS3, JQuery, Bootstrap. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/OnlineBanking
+- **OrderPaymentSystem** API для ведения отчётов по заказам и платежам. Технологии - ASP.NET Web API, Entity Framework, AutoMapper, JWT Bearer, PostgreSQL, Serilog, FluentValidation, Docker, RabbitMQ. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/OrderPaymentSystem
+- **FootballMatchPredictor** Веб-приложение, которое позволяет пользователям предсказывать результаты футбольных матчей. Технологии - ASP.NET MVC Core, Entity Framework Core, PostgreSQL, HTML/CSS, JavaScript, JQuery, .NET 8, Quartz, Mapster. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/FootballMatchPredictor
+- **SQLServerCourse** Курс по MS SQL Server и T-SQL, Технологии - ASP.NET MVC Core, Entity Framework Core, HTML5, CSS3, JavaScript, Nlog, Serilog, PostgreSQL, Bootstrap5, MySQL, MS SQL Server Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/SQLServerCourse
+- **OnlineBanking** Данный проект посвящён теме "Онлайн-банкинг". Технологии - ASP.NET MVC Core, Entity Framework Core c подходом Code First, PostgreSQL, .NET 8, Serilog, Mapster, .NET Quartz, HTML5, CSS3, JQuery, Bootstrap. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/OnlineBanking
 
 ## Связаться со мной
 - **Номер:** +7 (949) 359-71-26
