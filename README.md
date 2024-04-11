@@ -4,8 +4,8 @@
 Привет! Меня зовут Максим, и я разработчик на языке C#. Я увлечен созданием качественного программного обеспечения, и моя цель - постоянно улучшать свои навыки и участвовать в интересных проектах.
 
 ## Навыки
-- **Языки программирования:** C#
-- **Технологии:** .NET, ASP.NET MVC Core, ASP.NET Web API, Entity Framework, HTML, CSS, JavaScript, Jquery,
+- **Языки программирования:** C#, JavaScript
+- **Технологии:** .NET, ASP.NET MVC Core, ASP.NET Web API, Entity Framework, HTML, CSS, Jquery,
 - **Базы данных:** SQL Server, MySQL, PostgreSQL
 - **Инструменты:** Visual Studio, Git
 
