@@ -5,9 +5,10 @@
 
 ## Навыки
 - **Языки программирования:** C#, JavaScript, SQL
-- **Технологии:** .NET, ASP.NET MVC Core, ASP.NET Web API, Entity Framework Core, HTML, CSS, Jquery, Fluent Validation, Docker, RabbitMQ, ADO.NET
+- **Технологии:** .NET, ASP.NET Web API, Entity Framework Core, Dapper, Fluent Validation, Docker, RabbitMQ, Redis
 - **Базы данных:** MS SQL Server, PostgreSQL, MySQL
 - **Инструменты:** Visual Studio, Git
+- **Прочее:** ASP.NET MVC Core, HTML, CSS, Jquery.
 
 ## Проекты
 - **OrderPaymentSystem** API для ведения отчётов по заказам и платежам. Технологии - ASP.NET Web API, Entity Framework, AutoMapper, JWT Bearer, PostgreSQL, Serilog, FluentValidation, Docker, RabbitMQ. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/OrderPaymentSystem
