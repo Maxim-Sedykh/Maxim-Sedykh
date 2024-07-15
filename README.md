@@ -5,7 +5,7 @@
 
 ## Навыки
 - **Языки программирования:** C#, JavaScript, SQL
-- **Технологии:** .NET, ASP.NET Web API, Entity Framework Core, Dapper, Fluent Validation, Docker, RabbitMQ, Redis
+- **Технологии:** .NET, ASP.NET Web API, Entity Framework Core, Dapper, Fluent Validation, Docker, RabbitMQ, Redis, MediatR
 - **Базы данных:** MS SQL Server, PostgreSQL, MySQL
 - **Инструменты:** Visual Studio, Git
 - **Прочее:** ASP.NET MVC Core, HTML, CSS, Jquery.
