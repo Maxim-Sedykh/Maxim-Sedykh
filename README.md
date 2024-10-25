@@ -4,11 +4,11 @@
 Привет! Меня зовут Максим, и я разработчик на языке C#. Я увлечен созданием качественного программного обеспечения, и моя цель - постоянно улучшать свои навыки и участвовать в интересных проектах.
 
 ## Навыки
-- **Языки программирования:** C#, JavaScript, SQL
-- **Технологии:** .NET, ASP.NET Web API, Entity Framework Core, Dapper, Fluent Validation, Docker, RabbitMQ, Redis, MediatR
-- **Базы данных:** MS SQL Server, PostgreSQL, MySQL
+- **Языки программирования:** C#, SQL, JavaScript, TypeScript
+- **Технологии:** ASP.NET Web API, Entity Framework, Dapper, Docker, RabbitMQ, Redis
+- **Базы данных:** MS SQL Server, PostgreSQL, MongoDb, ClickHouse, MySQL
 - **Инструменты:** Visual Studio, Git
-- **Прочее:** ASP.NET MVC Core, HTML, CSS, Jquery.
+- **Прочее:** Fluent Validation. AutoMapper, MediatR, Mapster, gRPC, ASP.NET MVC Core, HTML, CSS, Jquery, Bootstrap.
 
 ## Проекты
 1. **OrderPaymentSystem** API для ведения отчётов по заказам и платежам. Технологии - ASP.NET Web API, Entity Framework, AutoMapper, JWT Bearer, PostgreSQL, Serilog, FluentValidation, Docker, RabbitMQ, Redis, Unit testing, graphana&prometheus, MediatR. Подробное описание проекта смотрите в README в репозитории проекта по ссылке https://github.com/Maxim-Sedykh/OrderPaymentSystem
