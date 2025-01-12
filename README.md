@@ -5,8 +5,8 @@
 
 ## Навыки
 - **Языки программирования:** C#, SQL, JavaScript, TypeScript
-- **Технологии:** ASP.NET Web API, Entity Framework, Dapper, Docker, RabbitMQ, Redis
-- **Базы данных:** MS SQL Server, PostgreSQL, MongoDb, ClickHouse, MySQL
+- **Технологии:** ASP.NET Web API, Entity Framework, Dapper, Docker, RabbitMQ
+- **Базы данных:** MS SQL Server, PostgreSQL, MongoDb, ClickHouse, MySQL, Redis
 - **Инструменты:** Visual Studio, Git
 - **Тестирование:** xUnit, Moq, AutoFixture
 - **Метрики:** Prometheus, Graphana
