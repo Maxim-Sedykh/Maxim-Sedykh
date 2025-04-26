@@ -5,11 +5,11 @@
 
 ## Навыки
 - **Языки программирования:** C#, SQL, JavaScript, TypeScript
-- **Технологии:** ASP.NET Web API, Entity Framework Core, Dapper, Docker, RabbitMQ
+- **Технологии:** ASP.NET Web API, Entity Framework Core, Dapper, Docker, RabbitMQ, React, Angular
 - **Базы данных:** MS SQL Server, PostgreSQL, MongoDb, ClickHouse, Redis
-- **Инструменты:** Visual Studio, Git, Github, BitBucket, Jira, TeamCity
+- **Инструменты:** Visual Studio, Git, Github, BitBucket, Gitlab, Jira, TeamCity
 - **Тестирование:** xUnit, Moq, AutoFixture
-- **Метрики:** Prometheus, Graphana, ElasticSearch
+- **Метрики:** Prometheus, Graphana, ELK
 - **Прочее:** Fluent Validation. AutoMapper, Mapster, MediatR, gRPC, ASP.NET MVC Core, HTML, CSS, Jquery, Bootstrap.
 
 ## Проекты
