@@ -6,7 +6,7 @@
 
 ## Мой стэк
 - **Языки программирования:** C#, SQL, JavaScript, TypeScript
-- **Технологии:** ASP.NET Web API, Entity Framework Core, Dapper, Docker, RabbitMQ, React, Angular
+- **Технологии:** ASP.NET Web API, Entity Framework Core, Dapper, Docker, RabbitMQ, Angular
 - **Базы данных:** MS SQL Server, PostgreSQL, MongoDb, ClickHouse, Redis
 - **Инструменты:** Visual Studio, Git, Github, BitBucket, Gitlab, Jira, TeamCity
 - **Тестирование:** xUnit, Moq, AutoFixture
